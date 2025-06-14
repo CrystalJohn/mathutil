@@ -8,6 +8,14 @@
 Actions:
 * ....
 
+## Screen-shots
+
+### TDD, DDT test script with JUnit
+![TDD, DDT with JUnit](https://github.com/CrystalJohn/mathutil/blob/main/screenshots/JUnit%20with%20TDD%20DDT.png)
+
+### Maven builder to build .jar file
+![Maven Builder](https://github.com/CrystalJohn/mathutil/blob/main/screenshots/Maven%20Builder.png)
+
 ### Connect me via: tranphanthanhphuc3992@gmail.com
 
 #### &#169; 2025 ThanhPhuc
