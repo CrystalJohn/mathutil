@@ -1,3 +1,6 @@
+[![Math Utility Project (CI included) | © 2025 by ThanhPhuc](https://github.com/CrystalJohn/mathutil/actions/workflows/thanhphuc-cirunner.yml/badge.svg)](https://github.com/CrystalJohn/mathutil/actions/workflows/thanhphuc-cirunner.yml)
+
+
 # Welcome to Math Utility Repository
 
 ## You will find in this repo the following stuff:
